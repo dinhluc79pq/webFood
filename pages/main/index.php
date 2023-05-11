@@ -1,0 +1,1 @@
+<img src="images/trangchu.jpg" alt="This is index pages." height="460px" width="99.9%" style="margin: 0px">

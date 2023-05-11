@@ -1,0 +1,49 @@
+body{
+    background-color: azure;
+}
+ul.admincp_list {
+    padding: 0;
+    margin: 0;
+    list-style: none;
+    margin-left: 200px;
+}
+ul.admincp_list li {
+    float: left;
+    margin: 5px;
+    margin: 10px;
+}
+ul.admincp_list li a{
+    color: black;
+    text-decoration: none;
+    border: 1px solid black;
+    padding: 10px;
+}
+
+ul.admincp_list li a:hover {
+    background-color: aqua;
+}
+
+.clear{
+	clear: both;
+}
+h3.title_admin {
+    text-align: center;
+    font-size: 40px;
+    color: black;
+}
+.wrapper{
+	border:1px solid #000;
+	height: auto;
+	width: 90%;
+	margin:0 auto;
+}
+p.logout a{
+    margin-left: 10px;
+    text-decoration: none;
+    color: red;
+    border: 1px solid black;
+    padding: 10px;
+}
+p.logout a:hover{
+    background-color: aquamarine;
+}
