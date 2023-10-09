@@ -22,5 +22,10 @@
 			include("pages/footer.php");
 		?>
 	</div>
+
+	<div class="haha">
+		<h1>bot hay top</h1>
+
+	</div>
 </body>
 </html>
